@@ -1,5 +1,5 @@
 # Python-Subreddit-Scraper-Tool
-Python scraping tool that downloads submission data from a given subreddit and saves to a .csv file.
+Python scraping tool that pulls thread data from a given subreddit and saves to a .csv file.
 
 In order to run, you'll need to register an app/script on reddit's developer page.
 
